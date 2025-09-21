@@ -1,0 +1,16 @@
+﻿{
+  "short_name": "星座占卜",
+  "name": "星座運勢占卜 - 探索你的星象奧秘",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔮</text></svg>",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6b46c1",
+  "background_color": "#1f2937",
+  "description": "探索星象的奧秘，揭示你的命運軌跡。專業的星座運勢占卜應用。"
+}
